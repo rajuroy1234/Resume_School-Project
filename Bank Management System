@@ -8,7 +8,7 @@ using namespace std;
 
 struct account 
 {           
-    int pin;                    //stores pin
+    int pin;                    //stores pinss
     char name[50];
     int deposit;               //stores balance
     char type;
